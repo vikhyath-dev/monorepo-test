@@ -9,7 +9,6 @@ Run the following command:
 ```sh
 npx create-turbo@latest -e with-npm
 ```
-
 ## What's inside?
 
 This Turborepo uses [npm](https://www.npmjs.com/) as a packages manager. It includes the following packages/apps:
