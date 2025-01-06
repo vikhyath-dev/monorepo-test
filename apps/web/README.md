@@ -12,6 +12,7 @@ You can start editing the page by modifying `app/page.tsx`. The page auto-update
 
 To create [API routes](https://nextjs.org/docs/app/building-your-application/routing/router-handlers) add an `api/` directory to the `app/` directory with a `route.ts` file. For individual endpoints, create a subfolder in the `api` directory, like `api/hello/route.ts` would map to [http://localhost:3000/api/hello](http://localhost:3000/api/hello).
 
+
 ## Learn More
 
 To learn more about Next.js, take a look at the following resources: 
