@@ -9,7 +9,6 @@
     "lint": "next lint --max-warnings 0"
   },
   "dependencies": {
-    "@emotion/cache": "^11.11.0",
     "@emotion/react": "^11.11.4",
     "@emotion/styled": "^11.11.5",
     "@fontsource/open-sans": "^5.0.28",
